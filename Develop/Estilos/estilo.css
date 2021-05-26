@@ -1,0 +1,33 @@
+body{
+    background-color: #0001;
+}
+
+h1{
+    color: #000477AB;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:link{
+    color: #e2703a;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #f7a440;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #f6dcbf;
+    text-decoration: underline;
+}
+
+a:active{
+    color: #aaaaaa;
+
+}
