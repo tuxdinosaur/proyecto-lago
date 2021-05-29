@@ -1,6 +1,6 @@
 # proyecto-lago
 
-Develop - Carpeta de desarrollo
-	 / (CSS -> (Estilos))
-	 / (IMG -> (Imagenes))
-	 / (PAGES -> (Paginas incorporadas))
+Carpeta de desarrollo
+ - ./css -> (Estilos)
+ - ./img -> (Imágenes)
+ - ./pages -> (Paginas incorporadas)
