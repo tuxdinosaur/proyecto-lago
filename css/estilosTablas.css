@@ -1,0 +1,30 @@
+caption{
+    color: black;
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+    line-height: 70px;
+}
+
+table{
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
+th{
+    color: white;
+    background-color: #ab2a3e;
+}
+
+td:nth-child(even){
+    background-color: white;
+}
+
+tr:nth-child(odd){
+    background-color: gray;
+}
