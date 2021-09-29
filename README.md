@@ -1,8 +1,8 @@
 # proyecto-lago
 
 Carpeta de desarrollo
- - ./css -> (Estilos)
- - ./img -> (Imágenes e iconos)
- - ./pages -> (Paginas incorporadas)
+ - ./Estilos -> (CSS)
+ - ./Imagenes -> (Imágenes e iconos)
+ - ./Paginas -> (Paginas incorporadas)
  - ./js -> (Codigo JS "proximo a incorporar")
- - ./py -> (Posible cósigo python implementado a web)
+ - ./Diseño código -> (Plantillas de los modelos de programación)
