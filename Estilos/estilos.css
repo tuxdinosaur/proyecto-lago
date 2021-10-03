@@ -16,7 +16,8 @@
     border-radius: 10px;
     font-family: 'calibri';
     color: black;
-    box-shadow: 10px 10px 10px #21130d ;
+    box-shadow: 10px 10px 10px #21130d;
+    box-shadow: 10px 10px 10px rgba(33, 19, 19, .6);
 }
 
 .form-register h1{
@@ -76,37 +77,45 @@
     margin-bottom: 16px;
 }
 
+.navbar {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
 /* Estilos imagenes y botones */
 .cobalto{
-    width: 200px;
-    height: 170px;
-    position: absolute;
-    left: 20px;
-    top: 0px;
+    /* width: 180px; */
+    height: 40px;
+    /* position: absolute; */
+    /* left: 20px;
+    top: 0px; */
 }
 
 .menu{
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    right: 20px;
-    top: 50px;
+    /* width: 50px; */
+    height: 40px;
+    /* position: absolute; */
+    /* right: 20px;
+    top: 50px; */
 }
 
 .cobaltob{
     width: 100px;
     height: 100px;
-    position: absolute;
+    /* position: absolute;
     top: 100px;
-    right: 595px;   
+    right: 595px;    */
 }
 
 .cierre{
     width: 0px;
     height: 0px;
-    position: absolute;
+    /* position: absolute;
     top: 120px;
-    right: 370px;
+    right: 370px; */
     font-weight: bold;
 }
 
@@ -124,8 +133,8 @@
 .boton2{
     width: 150px;
     height: 50px;
-    position: absolute;
-    right: 550px;
+    /* position: absolute;
+    right: 550px; */
     color: #ffffff;
     background-color: black;
     border-radius: 8px;
